@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @max1miliankosogon
-- 👀 I’m interested in front-end.
-- 🌱 I’m currently learning html/css
+- 👀 I’m interested in mobile development.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on telegram : https://t.me/maxim_kshn03
 - 📫 How to reach me - maximilian.kshn@gmail.com
 
