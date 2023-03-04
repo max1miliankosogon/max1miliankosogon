@@ -1,8 +1,9 @@
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Maximi Kosohon
+
 🚀 A passionate student that is about to become modern Android Developer. Being passionate about continuous learning, I quickly adapt to new libraries, conceptions, and programming languages. Able to create, elaborate, and neat UI based on modern design principles as well as concise, effective business logic.
 
-## &#x270d; Blog & Writing
-Apart from coding, I try to express my thoughts and knowledge in my blog about Android & Kotlin. You can support me by following on [Medium][2] or [Patreon][3] to show that it ain't useless. Every article is collected into my channel in [Telegram][4] & [Twitter][1]
-
+## &#x270d; Hobbies & Writing
+Apart from coding, I am really into learning languages and I am a huge fan of different sports.
 ## 📬 Get in Touch
 
 - 👋 Hi, I’m @max1miliankosogon
