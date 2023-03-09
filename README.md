@@ -7,7 +7,11 @@ I’m interested in mobile development.
 ##
 
 ## &#x270d; Language I work with 
- I’m currently learning Kotlin.
+ I work with 
+ Kotlin,
+ Javascript,  
+ Angular, 
+ HTML&cCSS
 ##
 
 ## 🌱 Hobbies & Passions
