@@ -11,7 +11,7 @@ I’m interested in mobile development.
  Kotlin,
  Javascript,  
  Angular, 
- HTML&cCSS
+ HTML&CSS
 ##
 
 ## 🌱 Hobbies & Passions
