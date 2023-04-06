@@ -6,7 +6,7 @@
 I’m interested in mobile development.
 ##
 
-## &#x270d; Language I work with 
+## &#x270d; Languages I work with 
  I work with 
  Kotlin,
  Javascript,  
